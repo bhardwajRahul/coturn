@@ -15,8 +15,8 @@ Coturn TURN server Docker image
 
 ## Supported tags and respective `Dockerfile` links
 
-- [`4.6.2-r7`, `4.6.2-r7-debian`, `4.6.2`, `4.6.2-debian`, `4.6.2-bookworm`, `4.6`, `4.6-debian`, `4.6-bookworm`, `4`, `4-debian`, `4-bookworm`, `debian`, `bookworm`, `latest`][d1]
-- [`4.6.2-r7-alpine`, `4.6.2-alpine`, `4.6.2-alpine3.19`, `4.6-alpine`, `4.6-alpine3.19`, `4-alpine`, `4-alpine3.19`, `alpine`, `alpine3.19`][d2]
+- [`4.6.3-r2`, `4.6.3-r2-debian`, `4.6.3`, `4.6.3-debian`, `4.6.3-bookworm`, `4.6`, `4.6-debian`, `4.6-bookworm`, `4`, `4-debian`, `4-bookworm`, `debian`, `bookworm`, `latest`][d1]
+- [`4.6.3-r2-alpine`, `4.6.3-alpine`, `4.6.3-alpine3.21`, `4.6-alpine`, `4.6-alpine3.21`, `4-alpine`, `4-alpine3.21`, `alpine`, `alpine3.21`][d2]
 
 
 
