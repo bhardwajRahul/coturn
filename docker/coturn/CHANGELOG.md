@@ -10,6 +10,7 @@ Coturn TURN server Docker image changelog
 ### Security updated
 
 - [Alpine Linux] 3.23.4: <https://github.com/docker-library/official-images/commit/d6df7c9b2a4abb30e768ef983f0f3e123ae63255>
+- [Debian Linux] "trixie" 20260505 (13.4): <https://github.com/docker-library/official-images/commit/a7309f6851272beaab8bfcce6b4561a458f2e6ea>
 
 
 
